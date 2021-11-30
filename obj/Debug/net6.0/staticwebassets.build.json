@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MiMvfTo44WII9HZ9d3TjB2W7t3zEOs89pLYleXkKT1M=",
+  "Source": "Dsi.Spg.Ui.Server",
+  "BasePath": "_content/Dsi.Spg.Ui.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
