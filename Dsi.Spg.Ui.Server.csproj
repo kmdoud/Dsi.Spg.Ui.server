@@ -21,8 +21,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Dsi.Spg.Ui.Data\Dsi.Spg.Ui.Data.csproj" />
-  </ItemGroup>
-
 </Project>
